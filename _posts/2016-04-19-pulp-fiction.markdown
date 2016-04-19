@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Kill Bill 2"
+title:  "Pulp Fiction"
 date:   2016-03-19 22:01:25 +0200
 categories: jekyll update
 ---
 
 # Pulp Fiction
 
-![Pulp FIction Photo](/images/Pulp-Fiction-image.png)
-Format: ![Alt Text](url)
+![Portada](/images/Pulp-Fiction-image.jpg)
 
 ## Datos:
 Título original Pulp Fiction 
