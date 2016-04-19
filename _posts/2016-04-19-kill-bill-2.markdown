@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Kill Bill 2"
+date:   2016-03-19 22:01:25 +0200
+categories: jekyll update
+---
+
+# Kill Bill 2
+
+## Datos:
+Título original Kill Bill: Volume 2 
+Año 2004
+Duración 137 min.
+País Estados Unidos Estados Unidos
+Director Quentin Tarantino 
+Guión Quentin Tarantino
+Música Varios
+Fotografía Robert Richardson
+Reparto Uma Thurman, David Carradine, Lucy Liu, Vivica A. Fox, Gordon Liu 
+(AKA Chia Hui Liu), Michael Madsen, Daryl Hannah, Michael Parks, 
+Bo Svenson, Jeannie Epper, Stephanie L. Moore, Shana Stein, Caitlin Keats, 
+Christopher Allen Nelson, Samuel L. Jackson, Laura Cayouette 
+Productora Miramax Films / A Band Apart
+Género Acción. Thriller | Artes marciales. Crimen. Venganza. Secuela 
+Web oficial [killbillofficial-site]
+
+## Synopsis:
+Tras eliminar a algunos miembros de la banda que intentaron asesinarla 
+el día de su boda, "Mamba Negra" (Uma Thurman) intenta acabar con los 
+demás, especialmente con Bill, su antiguo jefe (David Carradine), que 
+la había dado por muerta. (FILMAFFINIT
+
+
+[killbillofficial-site]: http://www.kill-bill.com/
