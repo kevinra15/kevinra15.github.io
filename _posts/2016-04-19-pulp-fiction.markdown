@@ -37,7 +37,7 @@ Productora Miramax Films / Band Apart / Jersey Films. Productor: Lawrence Bender
 
 Género Thriller. Acción | Crimen. Historias cruzadas. Película de culto 
 
-Wikipedia [killbillofficial-site]
+Wikipedia [pulpfiction-site]
 
 ## Synopsis:
 Jules y Vincent, dos asesinos a sueldo con no demasiadas luces, trabajan 
