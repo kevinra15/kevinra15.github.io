@@ -11,21 +11,32 @@ categories: jekyll update
 
 ## Datos:
 Título original Pulp Fiction 
+
 Año 1994
+
 Duración 153 min.
+
 País Estados Unidos Estados Unidos
+
 Director Quentin Tarantino 
+
 Guión Quentin Tarantino, Roger Avary
+
 Música Varios
+
 Fotografía Andrzej Sekula
+
 Reparto John Travolta, Samuel L. Jackson, Uma Thurman, Harvey Keitel, 
 Tim Roth, Amanda Plummer, Maria de Medeiros, Ving Rhames, Eric Stoltz, 
 Rosanna Arquette, Christopher Walken, Bruce Willis, Paul Calderon, 
 Bronagh Gallagher, Peter Greene, Stephen Hibbert, Angela Jones, 
 Phil LaMarr, Robert Ruth, Julia Sweeney, Quentin Tarantino, Frank Whaley, 
 Duane Whitaker, Steve Buscemi, Burr Steers 
+
 Productora Miramax Films / Band Apart / Jersey Films. Productor: Lawrence Bender
+
 Género Thriller. Acción | Crimen. Historias cruzadas. Película de culto 
+
 Wikipedia [killbillofficial-site]
 
 ## Synopsis:

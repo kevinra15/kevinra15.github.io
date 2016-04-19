@@ -11,18 +11,29 @@ categories: jekyll update
 
 ## Datos:
 Título original: Kill Bill: Volume 1 aka 
+
 Año 2003
+
 Duración 110 min.
+
 País Estados Unidos Estados Unidos
+
 Director  Quentin Tarantino 
+
 Guión Quentin Tarantino
+
 Música Varios
+
 Fotografía Robert Richardson
+
 Reparto Uma Thurman, Lucy Liu, Daryl Hannah, Vivica A. Fox, Sonny Chiba, 
 Chiaki Kuriyama, Michael Bowen, Julie Dreyfus, Michael Parks, David 
 Carradine, Michael Madsen 
+
 Productora Miramax Films / A Band Apart
+
 Género Acción. Thriller | Artes marciales. Crimen. Venganza. Película de culto 
+
 Web oficial [killbillofficial-site]
 
 ## Synopsis:

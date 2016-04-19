@@ -11,19 +11,30 @@ categories: jekyll update
 
 ## Datos:
 Título original Kill Bill: Volume 2 
+
 Año 2004
+
 Duración 137 min.
+
 País Estados Unidos Estados Unidos
+
 Director Quentin Tarantino 
+
 Guión Quentin Tarantino
+
 Música Varios
+
 Fotografía Robert Richardson
+
 Reparto Uma Thurman, David Carradine, Lucy Liu, Vivica A. Fox, Gordon Liu 
 (AKA Chia Hui Liu), Michael Madsen, Daryl Hannah, Michael Parks, 
 Bo Svenson, Jeannie Epper, Stephanie L. Moore, Shana Stein, Caitlin Keats, 
 Christopher Allen Nelson, Samuel L. Jackson, Laura Cayouette 
+
 Productora Miramax Films / A Band Apart
+
 Género Acción. Thriller | Artes marciales. Crimen. Venganza. Secuela 
+
 Web oficial [killbillofficial-site]
 
 ## Synopsis:
