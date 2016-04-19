@@ -6,16 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Tarantino Film's
+email: kevinramos456@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Página Web donde se describen i puntuan varias peliculas
+  de Quentin Tarantino, uno de los directores más famosos de
+  nuestra epoca, también conocido por hacer de guionista, actor y 
+  productor en muchos de sus films. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://kevinra15.github.io/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  kevinra15
 
 # Build settings
 markdown: kramdown
