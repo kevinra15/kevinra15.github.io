@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Kill Bill 1"
+date:   2016-04-19 13:18:25 +0200
+categories: jekyll update
+---
+#Kill Bill 1
+
+##Datos:
+Título original: Kill Bill: Volume 1 aka 
+Año 2003
+Duración 110 min.
+País Estados Unidos Estados Unidos
+Director  Quentin Tarantino 
+Guión Quentin Tarantino
+Música Varios
+Fotografía Robert Richardson
+Reparto Uma Thurman, Lucy Liu, Daryl Hannah, Vivica A. Fox, Sonny Chiba, 
+Chiaki Kuriyama, Michael Bowen, Julie Dreyfus, Michael Parks, David 
+Carradine, Michael Madsen 
+Productora Miramax Films / A Band Apart
+Género Acción. Thriller | Artes marciales. Crimen. Venganza. Película de culto 
+Web oficial [killbillofficial-site]
+
+##Synopsis:
+El día de su boda, una asesina profesional (Thurman) sufre el ataque de 
+algunos miembros de su propia banda, que obedecen las órdenes de Bill 
+(David Carradine), el jefe de la organización criminal. Logra sobrevivir 
+al ataque, aunque queda en coma. Cuatro años después despierta dominada 
+por un gran deseo de venganza. (FILMAFFINITY)
+
+
+[killbillofficial-site]: http://www.kill-bill.com/
