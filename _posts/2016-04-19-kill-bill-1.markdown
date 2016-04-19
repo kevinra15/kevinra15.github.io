@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Kill Bill 1"
-date:   2016-04-19 13:18:25 +0200
+date:   2016-03-19 13:55:25 +0200
 categories: jekyll update
 ---
-#Kill Bill 1
 
-##Datos:
+# Kill Bill 1
+
+## Datos:
 Título original: Kill Bill: Volume 1 aka 
 Año 2003
 Duración 110 min.
@@ -22,7 +23,7 @@ Productora Miramax Films / A Band Apart
 Género Acción. Thriller | Artes marciales. Crimen. Venganza. Película de culto 
 Web oficial [killbillofficial-site]
 
-##Synopsis:
+## Synopsis:
 El día de su boda, una asesina profesional (Thurman) sufre el ataque de 
 algunos miembros de su propia banda, que obedecen las órdenes de Bill 
 (David Carradine), el jefe de la organización criminal. Logra sobrevivir 
