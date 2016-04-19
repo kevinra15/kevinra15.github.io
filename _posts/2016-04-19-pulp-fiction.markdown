@@ -8,6 +8,7 @@ categories: jekyll update
 # Pulp Fiction
 
 ![Pulp FIction Photo](/images/Pulp-Fiction-image.png)
+Format: ![Alt Text](url)
 
 ## Datos:
 Título original Pulp Fiction 
