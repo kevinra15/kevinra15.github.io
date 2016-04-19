@@ -7,6 +7,8 @@ categories: jekyll update
 
 # Kill Bill 1
 
+![Portada](/images/killbill1.jpg)
+
 ## Datos:
 Título original: Kill Bill: Volume 1 aka 
 Año 2003

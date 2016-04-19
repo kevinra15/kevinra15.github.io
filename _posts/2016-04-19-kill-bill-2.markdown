@@ -7,6 +7,8 @@ categories: jekyll update
 
 # Kill Bill 2
 
+![Portada](/images/killbill2.jpg)
+
 ## Datos:
 Título original Kill Bill: Volume 2 
 Año 2004
