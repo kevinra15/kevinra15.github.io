@@ -15,9 +15,11 @@ Para ver su filmografía completa.
 [Filmografía Tarantino](http://www.sensacine.com/actores/actor-15570/filmografia/)
 
 Redes sociales:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[Facebook Tarantino Oficial](https://es-es.facebook.com/QuentinTarantinoDirector/)
+
+[Twitter Tarantino Oficial](https://twitter.com/QTarantino_news)
+
+[Linkedin Quentin tarantino](https://www.linkedin.com/in/quentin-tarantino-2818376b)
+
+
