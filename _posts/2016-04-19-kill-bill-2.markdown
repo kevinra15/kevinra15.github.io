@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kill Bill 2"
-date:   2016-03-19 22:01:25 +0200
+date:   2004-07-23 22:01:25 +0200
 categories: jekyll update
 image: /images/killbill2.jpg
 ---
