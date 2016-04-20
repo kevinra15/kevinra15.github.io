@@ -3,6 +3,7 @@ layout: post
 title:  "Pulp Fiction"
 date:   2016-03-19 22:01:25 +0200
 categories: jekyll update
+image: /images/Pulp-Fiction-image.jpg
 ---
 
 # Pulp Fiction
