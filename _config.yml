@@ -15,8 +15,8 @@ description: > # this means to ignore newlines until "baseurl:"
   productor en muchos de sus films. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kevinra15.github.io/" # the base hostname & protocol for your site
-facebook_username: QuentinTarantinoDirector
-twitter_username: QTarantino_news
+facebook_username: QTarantino
+twitter_username: QTarantino
 github_username:  kevinra15
 
 # Build settings
