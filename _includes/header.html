@@ -22,6 +22,12 @@
           <a class="page-link" href="{{ my_page.url }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
+        <!--
+        Al ser en format html aquesta page (contact form)
+        l'agafem apart del bucle, i està ubicada al site (page principal
+        del project). 
+        #Queda pendent veure com agafar-la utilitzant el bucle anterior.
+        -->
         <a class="page-link" href="/contact.html">Contact</a>
       </div>
     </nav>
