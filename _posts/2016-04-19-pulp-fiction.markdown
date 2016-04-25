@@ -6,8 +6,6 @@ categories: jekyll update
 image: /images/Pulp-Fiction-image.jpg
 ---
 
-# Pulp Fiction
-
 ![Portada](/images/Pulp-Fiction-image.jpg)
 
 ## Datos:

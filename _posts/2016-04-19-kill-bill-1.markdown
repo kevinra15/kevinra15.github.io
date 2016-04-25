@@ -6,8 +6,6 @@ categories: jekyll update
 image: /images/killbill1.jpg
 ---
 
-# Kill Bill 1
-
 ![Portada](/images/killbill1.jpg)
 
 ## Datos:

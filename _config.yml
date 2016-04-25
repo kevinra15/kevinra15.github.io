@@ -1,9 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# If you change this file, please restart the server process.
 
 # Site settings
 title: Tarantino Film's
@@ -13,11 +8,18 @@ description: > # this means to ignore newlines until "baseurl:"
   de Quentin Tarantino, uno de los directores más famosos de
   nuestra epoca, también conocido por hacer de guionista, actor y 
   productor en muchos de sus films. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://kevinra15.github.io/" # the base hostname & protocol for your site
+url: "http://kevinra15.github.io/"
 facebook_username: QTarantino
 twitter_username: QTarantino
 github_username:  kevinra15
 
 # Build settings
 markdown: kramdown
+
+#My collections
+collections:
+  #Sites on the headbar
+  headbar:
+    output: true
+    permalink: /awesome/_headbar/
+    url: /awesome/_headbar/my_page

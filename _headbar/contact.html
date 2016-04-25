@@ -6,7 +6,7 @@ layout: default
                 <fieldset>
                     <!-- Form Name -->
                     <legend>Contact us</legend>
-                    <!-- Text input-->
+                    <!-- Text input Name-->
                     <div class="form-group">
                         <label class="col-md-4 control-label">Name*</label>  
                         <div class="col-md-4 inputGroupContainer">
@@ -16,7 +16,7 @@ layout: default
                             </div>
                         </div>
                     </div>
-                    <!-- Text input-->
+                    <!-- Text input E-mail-->
                     <div class="form-group">
                         <label class="col-md-4 control-label">E-Mail*</label>  
                         <div class="col-md-4 inputGroupContainer">
@@ -26,7 +26,7 @@ layout: default
                             </div>
                         </div>
                     </div>
-                    <!-- Text input-->
+                    <!-- Text input Phone(optional)-->
                     <div class="form-group">
                         <label class="col-md-4 control-label">Phone #</label>  
                         <div class="col-md-4 inputGroupContainer">
@@ -36,7 +36,7 @@ layout: default
                             </div>
                         </div>
                     </div>
-                    <!-- Text area -->
+                    <!-- Text area Message-->
                     <div class="form-group">
                         <label class="col-md-4 control-label">Message*</label>
                         <div class="col-md-4 inputGroupContainer">
@@ -46,7 +46,7 @@ layout: default
                             </div>
                         </div>
                     </div>
-                     <!-- Button -->
+                     <!-- Button Send-->
                     <div class="form-group">
                         <label class="col-md-4 control-label"></label>
                         <div class="col-md-4">
@@ -56,13 +56,21 @@ layout: default
                 </fieldset>
             </form>
         </div>
+        <!--
+        Per poder realitzar el submit del formulari al nostre gust, hem
+        necesitat alguns fitxers predefinits de js trets de bootstrap i
+        altres... (I altres fitxers css també trets de bootstrap i altres
+        definits al _include/head.html):
+        -->
         <script src="/js/bootstrap.js"></script>
         <script src="https://code.jquery.com/jquery-2.2.3.js"></script>
         <script src="/js/sweetalert2.min.js"></script>
-        <!--Seleccionem el id del formulari per enviar la petició de contacte,
+        <!--
+        Seleccionem el id del formulari per enviar la petició de contacte,
         Realitzem l'enviament de dades a traves de ajax per a que al
         enviar el formulari no redirigeixi el navegador a la web 
-        formspree que he ustilitzat per enviar el mail-->
+        formspree que he ustilitzat per enviar el mail
+        -->
         <script>
 			$("#contact_form").submit(function(event){
 				event.preventDefault();
@@ -71,6 +79,10 @@ layout: default
 					$("#contact_form").serialize()
 				);
 			});
-			
         </script>
+        <!--
+        Aquesta funció es el que remplaça el que realitzaría l'atribut action de l'element form, i 
+        ens permet realitzar canvis en l'acció d'enviar el mail, com editar el missatge que apareix,
+        cambiar la página on et redirigeix al enviar-lo...
+        -->
 

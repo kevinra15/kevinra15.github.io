@@ -6,8 +6,6 @@ categories: jekyll update
 image: /images/django.jpg
 ---
 
-# Django Desencadenado
-
 ![Portada](/images/django.jpg)
 
 ## Datos:
